@@ -4,7 +4,7 @@
 
 
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white" width="150" height="50"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkMinSung2580&layout=compact)
 
