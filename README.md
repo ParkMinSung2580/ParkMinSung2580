@@ -3,8 +3,8 @@
 
 <!-- <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/> -->
 
-Language
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=while"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=green"/>
 
 <!--
