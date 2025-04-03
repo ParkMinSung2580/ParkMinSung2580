@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **ParkMinSung2580/ParkMinSung2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
